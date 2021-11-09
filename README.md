@@ -2,6 +2,7 @@
 
 Program çalıştırıldıktan sonra girilen öğrenci numarası sistemde kayıtlı ise girilen numara ile kayıtlı tüm bilgileri ekrana getirir. Eğer numara sistemde kayıtlı değilse yeni bir not hesabı kaydı oluşturulabilir hatta istenilirse kayıtlı olan bir numara hakkında bilgiler silinebilir ve üstüne güncellenebilir. 
 
+```
 import os
 import time
 os.chdir(os.path.expanduser("~"))
@@ -111,7 +112,7 @@ while True:
       break
  break
 time.sleep(7)      
-     
+```     
      
  
  
