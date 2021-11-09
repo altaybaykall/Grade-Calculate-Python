@@ -1,0 +1,3 @@
+Öğrenciler için  öğrenci numarası ile sisteme giriş yaplılan  , bir ders için  vize, final ,ödev notları ve  yoklama sayısı ile notların ortalaması çıkarıp bunu hem sayısal not olarak hemde harf notu olarak  ad,soyad,not,harf notu , ders geçildimi/geçilmedimi olarak yazan ve bilgisayarda bir txt dosyası oluşturarak içine yazıp kaydeden bir program.
+
+Program çalıştırıldıktan sonra girilen öğrenci numarası sistemde kayıtlı ise girilen numara ile kayıtlı tüm bilgileri ekrana getirir. Eğer numara sistemde kayıtlı değilse yeni bir not hesabı kaydı oluşturulabilir hatta istenilirse kayıtlı olan bir numara hakkında bilgiler silinebilir ve üstüne güncellenebilir. 
